@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Summer'17 Intern-Week 1"
-subtitle:   "Expectations and a look at Space-Time Kernel Density Estimation"
+subtitle:   "Expectations and A look at Space-Time Kernel Density Estimation"
 date:       2017-06-2 08:00:00
 author:     "Tahmid Efaz"
 header-img: "img/post-01-bg.jpg"
