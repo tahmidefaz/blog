@@ -6,9 +6,9 @@ copyright_name: Tahmid Efaz
 description: "This is my personal blog page - Tahmid Efaz"
 baseurl:
 url: ""
-twitter_username: SBootstrap
+instagram_username: tahmidefaz
 github_username:  tahmidefaz
-facebook_username:  efaz.tahmid
+# facebook_username:  efaz.tahmid
 email_username:  tahmidefaz@gmail.com
 
 # Google Analytics
