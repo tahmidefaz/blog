@@ -7,4 +7,4 @@ author:     "Tahmid Efaz"
 header-img: "img/post-bg-01.jpg"
 ---
 
-<p>Blog Post will be up very soon!</p>
+<h3><i>Prompt: What are you hoping to accomplish or learn (technical and/or non-technical) during your summer of research?</i></h3>
