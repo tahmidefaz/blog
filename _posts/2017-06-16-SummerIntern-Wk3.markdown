@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Summer'17 Intern-Week 2"
-subtitle:   "Things I did this week"
+title:      "Summer'17 Intern-Week 3"
+subtitle:   "Challenges are fun!"
 date:       2017-06-16 08:00:00
 author:     "Tahmid Efaz"
 header-img: "img/post-01-bg.jpg"
